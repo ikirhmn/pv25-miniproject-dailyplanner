@@ -58,3 +58,4 @@ class CalendarWindow(QtWidgets.QMainWindow):
         if date_str in self.plan_data:
             del self.plan_data[date_str]
         self.show_plans_for_date(self.selected_date)
+
