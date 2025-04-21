@@ -27,8 +27,7 @@ Dibuat oleh **Rizki Rahman Maulana (F1D022093)** dengan `Qt Designer` dan `Vs Co
 3. Tertampil hasil convert `.ui`
 ![Screenshot (777)](https://github.com/user-attachments/assets/9ac21e96-5dd4-4e6c-b7c9-b914b65860d4)
 5. Tampilan hasil run aplikasi <br>
-![Screenshot (780)](https://github.com/user-attachments/assets/f42e4d17-7f48-4331-a8c1-e914ab46f47b)
-![Screenshot (781)](https://github.com/user-attachments/assets/3eb62202-da0c-4cd6-980b-aa13a0506785)
-![Screenshot (782)](https://github.com/user-attachments/assets/6275eada-3913-42a6-ad3e-4f05ddd101a6)
-![Screenshot (783)](https://github.com/user-attachments/assets/f8d8f83a-626b-4101-939d-0f17f12bd8d4)
-
+![Screenshot (780)](https://github.com/user-attachments/assets/afafacb5-4079-4cba-ac20-7a4a3e2eb6fa)
+![Screenshot (781)](https://github.com/user-attachments/assets/3e36e640-c375-4ab3-a8f2-32e32d8d3895)
+![Screenshot (782)](https://github.com/user-attachments/assets/444901a0-1bd1-4364-b5a6-7ae378ba70af)
+![Screenshot (783)](https://github.com/user-attachments/assets/23db3ded-8bae-43e2-ba2d-740a9db1c564)
