@@ -19,6 +19,7 @@ class FormWindow(QtWidgets.QDialog):
         self.ui.pushButton_2.clicked.connect(self.save_plan)
         self.ui.pushButton.clicked.connect(self.close)
 
+    
     def save_plan(self):
         plan = {
             "name": self.ui.lineEdit.text(),
