@@ -1,4 +1,4 @@
-![Screenshot (783)](https://github.com/user-attachments/assets/6be7ea2c-11ca-4edb-b49f-299bbe9e317f)![Screenshot (782)](https://github.com/user-attachments/assets/861314d4-c3fc-4d58-89ea-589b16a3be06)![Screenshot (781)](https://github.com/user-attachments/assets/84d91b58-f5bf-4966-8117-7fecdebacec6)![Screenshot (780)](https://github.com/user-attachments/assets/69ec32ab-1e00-4a41-91ed-d380e41e8d85)# Daily Planner Application
+# Daily Planner Application
 
 ## Deskripsi
 
